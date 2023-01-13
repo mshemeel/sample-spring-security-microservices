@@ -10,7 +10,7 @@
 	<modules>
 		<module>gateway</module>
 		<module>callme</module>
-        <module>ssl</module>
+        <!-- <module>ssl</module> -->
 	</modules>
 	<packaging>pom</packaging>
 
